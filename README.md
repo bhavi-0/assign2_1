@@ -2,7 +2,7 @@
 
 
 ## *1. Live link*
-Link:(https://bhavi-0.github.io/assign2_2/)
+Link:((https://bhavi-0.github.io/assign2_1/))
 
 
 ## *2. Screenshot of the Interface*
